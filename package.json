@@ -1,15 +1,12 @@
 {
   "name": "@dev.mohe/isomorphic-webcrypto",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Isomorphic interface for the Node.js v15.0.0 Web Crypto API and the browser Web Crypto API.",
   "exports": {
     "browser": "./browser.mjs",
     "node": "./nodejs.mjs"
   },
   "types": "types.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "engines": {
     "node": ">=15.0.0"
   },
@@ -29,6 +26,5 @@
     "web-cryptoapi",
     "cryptoapi"
   ],
-  "author": "",
   "license": "Unlicense"
 }
