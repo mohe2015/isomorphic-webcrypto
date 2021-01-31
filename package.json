@@ -2,6 +2,7 @@
   "name": "@dev.mohe/isomorphic-webcrypto",
   "version": "0.0.1",
   "description": "Isomorphic interface for the Node.js v15.0.0 Web Crypto API and the browser Web Crypto API.",
+  "private": "false",
   "exports": {
     "browser": "./browser.mjs",
     "node": "./nodejs.mjs"
