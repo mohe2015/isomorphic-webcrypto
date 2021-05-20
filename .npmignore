@@ -1,0 +1,6 @@
+LICENSES
+flake.lock
+flake.lock.license
+flake.nix
+package-lock.json.license
+package.json.license

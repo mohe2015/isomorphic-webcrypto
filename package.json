@@ -1,6 +1,6 @@
 {
   "name": "@dev.mohe/isomorphic-webcrypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Isomorphic interface for the Node.js v15.0.0 Web Crypto API and the browser Web Crypto API.",
   "exports": {
     "browser": "./browser.mjs",
@@ -9,6 +9,14 @@
   "types": "types.d.ts",
   "engines": {
     "node": ">=15.0.0"
+  },
+  "homepage": "https://github.com/mohe2015/isomorphic-webcrypto",
+  "bugs": {
+    "url": "https://github.com/mohe2015/isomorphic-webcrypto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohe2015/isomorphic-webcrypto.git"
   },
   "keywords": [
     "isomorphic",

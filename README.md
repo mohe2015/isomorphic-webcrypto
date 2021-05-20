@@ -9,6 +9,8 @@
 
 Isomorphic interface for the Node.js v15.0.0 Web Crypto API and the browser Web Crypto API.
 
+## Usage
+
 ```javascript
 import crypto from '@dev.mohe/isomorphic-webcrypto';
 ```
