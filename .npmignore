@@ -4,3 +4,6 @@ flake.lock.license
 flake.nix
 package-lock.json.license
 package.json.license
+.github/workflows/codeql-analysis.yml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
